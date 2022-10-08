@@ -3,7 +3,6 @@ import PySimpleGUI as sg
 from tkinter import *
 from PIL import Image, ImageFilter, ImageOps
 from io import BytesIO
-import pywhatkit as kit
 
 sg.theme('Light Blue')
 
